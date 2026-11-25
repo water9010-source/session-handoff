@@ -14,7 +14,7 @@
 - Skill 內容是繁體中文；不保證能省多少 token。
 
 ## 取得
-1 美元：https://aquaquest23.gumroad.com/l/ncrbbh
+購買：https://aquaquest23.gumroad.com/l/ncrbbh
 
 ## 開發者
 LI WEI，「治理系統 Pro」的開發者。這個 Skill 是在治理系統 Pro 的七步流程下製作，並經過另一個 AI 對話獨立檢查。
@@ -24,4 +24,4 @@ LI WEI，「治理系統 Pro」的開發者。這個 Skill 是在治理系統 Pr
 
 ---
 
-English: A Claude Skill (Traditional Chinese) that writes a short handoff file and continues the task in a fresh conversation when the current one becomes token-expensive. Tested only on Claude Code desktop. Get it for USD 1 on Gumroad: https://aquaquest23.gumroad.com/l/ncrbbh. Developer: LI WEI, creator of 治理系統 Pro (Governance System Pro). You may use and modify it; any modified or shared copy must keep LICENSE.txt and the line "Original author: LI WEI".
+English: A Claude Skill (Traditional Chinese) that writes a short handoff file and continues the task in a fresh conversation when the current one becomes token-expensive. Tested only on Claude Code desktop. Get it on Gumroad: https://aquaquest23.gumroad.com/l/ncrbbh. Developer: LI WEI, creator of 治理系統 Pro (Governance System Pro). You may use and modify it; any modified or shared copy must keep LICENSE.txt and the line "Original author: LI WEI".
